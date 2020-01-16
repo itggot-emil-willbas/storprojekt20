@@ -39,7 +39,7 @@ Eleven har utförlig domänbeskrivning som beskriver olika användares behörigh
 
 ### A-nivå
 
-Eleven har domänbeskrivning likt C-nivå, och använder obehinrdat de flesta begrepp. Applikationens routes är även dokumenterade enligt xxx
+Eleven har domänbeskrivning likt C-nivå, och använder obehinrdat de flesta begrepp. Applikationens routes är även dokumenterade enligt tex Yardoc.
 
 ## Arkitektur
 
